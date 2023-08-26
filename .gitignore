@@ -42,4 +42,7 @@ dist-ssr
 
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
-report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.jso
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+#My notes
+local-notes.txt
